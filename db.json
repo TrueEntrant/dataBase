@@ -2,7 +2,7 @@
     "users" :[
         {
             "id" : "1",
-            "name" : "Admin",
+            "name" : "admin",
             "password" : "12345",
             "messages" : [
                 {
@@ -25,7 +25,7 @@
         },
         {
             "id" : "2",
-            "name" : "User",
+            "name" : "user",
             "password" : "54321",
             "messages" : [
                 {
