@@ -1,0 +1,50 @@
+{
+    "users" :[
+        {
+            "id" : "1",
+            "name" : "Admin",
+            "password" : "12345",
+            "messages" : [
+                {
+                    "type" : "from",
+                    "text" : "Hi, how are you?"
+                },
+                {
+                    "type" : "to",
+                    "text" : "Fine thanks"
+                },
+                {
+                    "type" : "to",
+                    "text" : "And you?"
+                },
+                {
+                    "type" : "from",
+                    "text" : "Fine too, thanks"
+                }
+            ]
+        },
+        {
+            "id" : "2",
+            "name" : "User",
+            "password" : "54321",
+            "messages" : [
+                {
+                    "type" : "to",
+                    "text" : "Hi, how are you?"
+                },
+                {
+                    "type" : "from",
+                    "text" : "Fine thanks"
+                },
+                {
+                    "type" : "from",
+                    "text" : "And you?"
+                },
+                {
+                    "type" : "to",
+                    "text" : "Fine too, thanks"
+                }
+            ]
+        }
+    ]
+}
